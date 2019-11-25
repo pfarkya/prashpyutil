@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 prashpyutil: Utils for Prashant
-==========================
+===============================
 
 **prashpyutil** is an elegant and simple util library for Python, built for Prashant.
 
@@ -20,6 +20,7 @@ The API documentation
 ---------------------
 .. toctree::
    :maxdepth: 2
+
    api
 
 
