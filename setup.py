@@ -105,7 +105,7 @@ setup(
         'socks:sys_platform == "win32" and python_version == "2.7"': ['win_inet_pton'],
     },
     project_urls={
-        'Documentation': '',
+        'Documentation': 'https://prashpyutil.readthedocs.io/',
         'Source': 'https://github.com/pfarkya/prashpyutil',
     },
 )

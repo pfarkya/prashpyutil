@@ -1,7 +1,7 @@
 __title__ = 'prashpyutil'
 __description__ = 'Python Prashant utility'
-__url__ = ''
-__version__ = '1.0.0'
+__url__ = 'https://prashpyutil.readthedocs.io/'
+__version__ = '1.0.1'
 __build__ = 0x022200
 __author__ = 'Prashant Farkya'
 __author_email__ = 'prashant.farkya@gamil.com'

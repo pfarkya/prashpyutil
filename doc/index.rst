@@ -10,11 +10,18 @@ prashpyutil: Utils for Prashant
 
 -------------------
 
-**Behold, the power of Requests**::
+**Behold, the power of Utils**::
 
-    >>> r = prashpyutil.sum.sumoftwo(3, 2)
+    >>> r = prashpyutil.sumoftwo(3, 2)
     >>> r
     5
+
+The API documentation
+---------------------
+.. toctree::
+   :maxdepth: 2
+   api
+
 
 There are no more guides. You are now guideless.
 Good luck.
