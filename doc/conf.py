@@ -99,8 +99,6 @@ add_module_names = True
 # output. They are ignored by default.
 # show_authors = False
 
-# The name of the Pygments (syntax highlighting) style to use.
-pygments_style = "flask_theme_support.FlaskyStyle"
 
 # A list of ignored prefixes for module index sorting.
 # modindex_common_prefix = []
