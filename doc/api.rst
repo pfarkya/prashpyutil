@@ -3,7 +3,11 @@
 API EXPOSED BY THE MODULE
 =========================
 
-.. module:: prashpyutil
+.. automodule:: prashpyutil
+    :members:
+    :undoc-members:
+    :inherited-members:
+    :show-inheritance:
 
 This part of documentation will have API function exposed by the module.
 
